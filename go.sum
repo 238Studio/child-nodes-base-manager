@@ -1,0 +1,10 @@
+github.com/238Studio/child-nodes-assist v1.14.1-alpha h1:OaGMDEDD+HO3Ufkmp8WV0XMqeMCrKnBroRYjzAYz2D0=
+github.com/238Studio/child-nodes-assist v1.14.1-alpha/go.mod h1:moO2jhZ3uqBflOqqhZncfQaRDsMj5Iz/vun+1uRpZ6w=
+github.com/238Studio/child-nodes-config-service v1.0.2-alpha h1:egM3yzDyDdwrJ1g6L0VoygANGCgkUDfL5AsHV2BlK+4=
+github.com/238Studio/child-nodes-config-service v1.0.2-alpha/go.mod h1:PaDmupE1ApHGDUsZ6AIbljpXzDMLVOHgDuG/j8xLPC8=
+github.com/238Studio/child-nodes-database-service v1.0.1-0.20231107035007-a4bdec893356 h1:Y3BRY9tAJetBJxmmGd8z3OKFlrlg57SM+S34DAJS9/Q=
+github.com/238Studio/child-nodes-database-service v1.0.1-0.20231107035007-a4bdec893356/go.mod h1:5VSF96I2UWW9NlzK8VgHlyk0WlGOVzEIYq1W21o1PKM=
+github.com/238Studio/child-nodes-database-service v1.0.2 h1:TPLj6ZViC18AZkCwf911JD4o6mJj00aW4i3JFJnqFFg=
+github.com/238Studio/child-nodes-database-service v1.0.2/go.mod h1:tmn/iwptAkw8aNuSCt7/gzUrCt6Y93eWQWZIToHvrMs=
+github.com/238Studio/child-nodes-file-manager-service v1.0.0/go.mod h1:1vxcnVL/6ddzS2ZvPqARGnI9Y3p/00C0AThtsqroieU=
+github.com/238Studio/child-nodes-net-service v1.0.2/go.mod h1:1y3aF7ULGdytLO+Lckfm3u0xWK+SgrEbmOvy8ZfJsKM=
